@@ -1,2 +1,2 @@
-# stone-paper-rock
+# rock-paper-scissors
 python
